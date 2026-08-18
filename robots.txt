@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-tiot7q.pulaucuansite.xyz/sitemap.xml
